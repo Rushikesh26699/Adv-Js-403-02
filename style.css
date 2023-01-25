@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(75, 75, 130);
+    font-family:'Roboto Mono', monospace;
+}
+h1{
+    text-align: center;
+    font-size: 90px;
+    color: white;
+    text-shadow: 3px 0  3px red;
+}
+.drumsbeat{
+    text-align: center;
+    margin-top: 150px;
+}
+.drum{
+    width: 160px;
+    height: 160px;
+    margin: 0px 10px;
+    font-size: 65px;
+    font-weight: 800;
+    color: rgb(241, 82, 108);
+    text-shadow: 3px 0 white;
+    border-radius:  6px ;
+    border: 10px solid #576283;
+    cursor: pointer;
+  
+}
+.w{
+    background-image: url(crash.jpeg);
+    
+}
+
+.a{
+    background-image: url(tom2.jpeg);
+}
+.s{
+    background-image: url(tom3.jpeg);
+}
+.d{
+    background-image: url(tom1.jpeg);
+}
+.j{
+    background-image: url(snare.jpeg);
+}
+.k{
+    background-image: url(tom4.jpeg);
+}
+.l{
+    background-image: url(kick.jpeg);
+}
